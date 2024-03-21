@@ -1,0 +1,11 @@
+.title {
+  font-size: 2rem;
+  font-weight: 500;
+}
+.description {
+  margin-bottom: -10px;
+}
+.section__container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

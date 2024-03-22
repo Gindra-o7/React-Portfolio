@@ -7,7 +7,7 @@ function Biodata() {
         <section className="section">
           <div className="section__container">
             <div className="image">
-              <img src="src/assets/biopic.png" alt="profile" style={{ width: "auto", height: "300px", border: "2px solid #1f2937" }} />
+              <img src="/biopic.png" alt="profile" style={{ width: "auto", height: "300px", border: "2px solid #1f2937" }} />
             </div>
             <div className="content">
               <h2 className="title">My Biodata</h2>

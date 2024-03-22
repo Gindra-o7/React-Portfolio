@@ -25,12 +25,12 @@ function Portfolio() {
               </p>
             </div>
             <div className="image">
-              <img src="src/assets/portfolio1.png" alt="profile" style={{ borderRadius: "5px", border: "2px solid #1f2937", width: "500px", height: "auto" }} />
+              <img src="/portfolio1.png" alt="profile" style={{ borderRadius: "5px", border: "2px solid #1f2937", width: "500px", height: "auto" }} />
             </div>
           </div>
           <div className="section__container" style={{ backgroundColor: "#b0d9ff", borderRadius: "10px" }}>
             <div className="image">
-              <img src="src/assets/portfolio2.png" alt="profile" style={{ borderRadius: "5px", border: "2px solid #1f2937", width: "500px", height: "auto" }} />
+              <img src="/portfolio2.png" alt="profile" style={{ borderRadius: "5px", border: "2px solid #1f2937", width: "500px", height: "auto" }} />
             </div>
             <div className="content">
               <h2 className="title">

@@ -34,7 +34,7 @@ function Home() {
               </p>
             </div>
             <div className="image">
-              <img src="src/assets/homepagepic.png" alt="profile" style={{ border: "2px solid #1f2937" }} />
+              <img src="/homepagepic.png" alt="profile" style={{ border: "2px solid #1f2937" }} />
             </div>
           </div>
         </section>

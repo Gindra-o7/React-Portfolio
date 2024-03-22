@@ -4,7 +4,7 @@ import Portfolio from "./Pages/Portfolio/portfolio";
 import Biodata from "./Pages/Biodata/biodata";
 import Home from "./Pages/Home/home";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/Navbar/Navbar";
 import "./App.css";
 
 function App() {

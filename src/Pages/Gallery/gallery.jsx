@@ -9,7 +9,7 @@ function Gallery() {
           <div className="photo-gallery">
             <div className="column">
               <div className="photo">
-                <img src="src/assets/galeri1.jpeg" alt="" />
+                <img src="/galeri1.jpeg" alt="" />
               </div>
               <div className="photo">
                 <img src="src/assets/galeri2.jpeg" alt="" />

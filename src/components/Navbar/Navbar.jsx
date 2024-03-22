@@ -7,7 +7,7 @@ function Navbar() {
       <nav>
         <div className="nav__content">
           <div className="logo">
-            <a href="homepage.html">Gilang.</a>
+            <Link to="/">Gilang.</Link>
           </div>
           <label htmlFor="check" className="checkbox">
             <i className="ri-menu-line"></i>

@@ -49,10 +49,10 @@ function Portfolio() {
           </div>
           <div className="section__container" style={{ backgroundColor: "#686868", borderRadius: "10px" }}>
             <div className="image">
-              <img src="src/assets/portfolio3.jpg" alt="profile" style={{ borderRadius: "5px", border: "2px solid #1f2937", width: "500px", height: "auto" }} />
+              <img src="/portfolio3.jpg" alt="profile" style={{ borderRadius: "5px", border: "2px solid #1f2937", width: "500px", height: "auto" }} />
             </div>
             <div className="image">
-              <img src="src/assets/portfolio4.jpg" alt="profile" style={{ borderRadius: "5px", border: "2px solid #1f2937", width: "500px", height: "auto" }} />
+              <img src="/portfolio4.jpg" alt="profile" style={{ borderRadius: "5px", border: "2px solid #1f2937", width: "500px", height: "auto" }} />
             </div>
             <div className="content">
               <h2 className="title" style={{ marginTop: "-10rem", marginLeft: "1.5rem", color: "#e6e6e6" }}>
